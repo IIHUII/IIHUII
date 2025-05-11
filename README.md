@@ -6,8 +6,7 @@
 العمر : 17 
 
 
-اللغات : HTML , LUAU , JS 
-
+اللغات : HTML , LUAU , JS
 
 الحلم :  PY, C++**
 
