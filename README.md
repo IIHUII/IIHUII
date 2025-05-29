@@ -1,18 +1,7 @@
-# اهلا بكم 
-
-**انا اسمي : لونا ديفي او LUNADEV 
-العمر : 17 
-اللغات : HTML , LUAU , JS**
-
-
-
-
-
-
-
-**ملاحضه : 
-تقدر تاخذ ال GUI مني وكمان في سكربتات ممكن اسويها OPEN SRC**
-
-
-
- **THX , BYA**
+# local args = {
+# [1] = "Fuck off form here all file are abuscate",
+# [2] = "Fuck off form here all file are abuscate",
+# [3] = "Fuck off form here all file are abuscate",
+# [4] = "Fuck off form here all file are abuscate",
+# [5] = "Fuck off form here all file are abuscate",
+# },
