@@ -1,3 +1,3 @@
 # local args = {
-# [1] = "fuck , i want nsfw mommy",
+# [1] = "fuck , i need nsfw mommy",
 # },
